@@ -1,0 +1,602 @@
+2025-03-19 13:01:50 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 13:01:50 CET 2025]; root of context hierarchy
+2025-03-19 13:01:50 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 13:01:50 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 13:01:50 [DEBUG] - Identified candidate component class: file [C:\Users\juanpedro.gallardo\Downloads\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 13:01:50 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 13:01:50 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 13:01:50 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 13:01:50 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 13:01:50 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 13:01:50 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 13:01:50 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 13:01:50 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 13:01:50 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 13:01:50 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 13:01:50 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 13:01:50 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@710c2b53]
+2025-03-19 13:01:57 [INFO] - Se ha creado un jugador
+2025-03-19 13:01:57 [DEBUG] - Nombre: Juanpe
+2025-03-19 13:52:06 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 13:52:06 CET 2025]; root of context hierarchy
+2025-03-19 13:52:06 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 13:52:06 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 13:52:06 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 13:52:06 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 13:52:06 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 13:52:06 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 13:52:07 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 13:52:07 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 13:52:07 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 13:52:07 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 13:52:07 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 13:52:07 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 13:52:07 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 13:52:07 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 13:52:07 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@710c2b53]
+2025-03-19 13:52:09 [INFO] - Creando jugador...
+2025-03-19 13:52:12 [INFO] - Se ha creado un jugador
+2025-03-19 13:52:12 [DEBUG] - Nombre: laura
+2025-03-19 13:53:58 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 13:53:58 CET 2025]; root of context hierarchy
+2025-03-19 13:53:58 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 13:53:58 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 13:53:58 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 13:53:58 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 13:53:58 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 13:53:58 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 13:53:58 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 13:53:58 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 13:53:58 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 13:53:58 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 13:53:58 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 13:53:58 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 13:53:58 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 13:53:58 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 13:53:58 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@710c2b53]
+2025-03-19 13:54:43 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 13:54:43 CET 2025]; root of context hierarchy
+2025-03-19 13:54:43 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 13:54:43 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 13:54:43 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 13:54:43 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 13:54:43 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 13:54:43 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 13:54:43 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 13:54:43 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 13:54:43 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 13:54:43 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 13:54:43 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 13:54:43 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 13:54:43 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 13:54:43 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 13:54:43 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@5386659f]
+2025-03-19 13:55:01 [INFO] - Creando jugador...
+2025-03-19 13:55:04 [INFO] - Se ha creado un jugador
+2025-03-19 13:55:04 [DEBUG] - Nombre: laura
+2025-03-19 13:55:38 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 13:55:38 CET 2025]; root of context hierarchy
+2025-03-19 13:55:38 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 13:55:38 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 13:55:38 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 13:55:38 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 13:55:38 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 13:55:38 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 13:55:38 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 13:55:38 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 13:55:38 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 13:55:38 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 13:55:38 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 13:55:38 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 13:55:38 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 13:55:38 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 13:55:39 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@710c2b53]
+2025-03-19 13:55:42 [INFO] - Creando jugador...
+2025-03-19 13:55:43 [INFO] - Se ha creado un jugador
+2025-03-19 13:55:43 [DEBUG] - Nombre: laura
+2025-03-19 13:56:04 [INFO] - Se ha creado una apuesta aleatoria
+2025-03-19 13:56:04 [DEBUG] - Se le ha realizado la apuesta aleatoria a laura
+2025-03-19 13:56:09 [INFO] - Mostrando personas...
+2025-03-19 13:56:09 [INFO] - Se ha mostrado una apuesta
+2025-03-19 13:56:09 [DEBUG] - se ha mostrado la apuesta de laura 
+2025-03-19 13:56:09 [INFO] - Se ha mostrado una apuesta
+2025-03-19 13:56:09 [DEBUG] - se ha mostrado la apuesta de laura 
+2025-03-19 13:56:09 [INFO] - Se ha mostrado una apuesta
+2025-03-19 13:56:09 [DEBUG] - se ha mostrado la apuesta de laura 
+2025-03-19 13:56:09 [INFO] - Se ha mostrado una apuesta
+2025-03-19 13:56:09 [DEBUG] - se ha mostrado la apuesta de laura 
+2025-03-19 13:56:09 [INFO] - Se ha mostrado una apuesta
+2025-03-19 13:56:09 [DEBUG] - se ha mostrado la apuesta de laura 
+2025-03-19 13:56:09 [INFO] - Se ha mostrado una apuesta
+2025-03-19 13:56:09 [DEBUG] - se ha mostrado la apuesta de laura 
+2025-03-19 14:20:41 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 14:20:41 CET 2025]; root of context hierarchy
+2025-03-19 14:20:41 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 14:20:41 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 14:20:41 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 14:20:41 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 14:20:41 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 14:20:41 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 14:20:41 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 14:20:41 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 14:20:41 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 14:20:41 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 14:20:41 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 14:20:41 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 14:20:41 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 14:20:41 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 14:20:41 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@710c2b53]
+2025-03-19 14:20:43 [INFO] - Creando jugador...
+2025-03-19 14:20:45 [INFO] - Se ha creado un jugador
+2025-03-19 14:20:45 [DEBUG] - Nombre: laura
+2025-03-19 14:21:03 [INFO] - Se ha creado una apuesta aleatoria
+2025-03-19 14:21:03 [DEBUG] - Se le ha realizado la apuesta aleatoria a laura
+2025-03-19 14:25:17 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@589b3632: startup date [Wed Mar 19 14:25:17 CET 2025]; root of context hierarchy
+2025-03-19 14:25:17 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@589b3632: org.springframework.beans.factory.support.DefaultListableBeanFactory@7d8995e: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 14:25:17 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 14:25:18 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 14:25:18 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 14:25:18 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 14:25:18 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 14:25:18 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 14:25:18 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 14:25:18 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 14:25:18 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 14:25:18 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 14:25:18 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 14:25:18 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 14:25:18 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 14:25:18 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@710c2b53]
+2025-03-19 14:25:22 [INFO] - Empezando sorteo...
+2025-03-19 20:30:46 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 20:30:46 CET 2025]; root of context hierarchy
+2025-03-19 20:30:46 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 20:30:46 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 20:30:46 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 20:30:46 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 20:30:46 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 20:30:46 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 20:30:46 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 20:30:46 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 20:30:46 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 20:30:46 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 20:30:46 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 20:30:47 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 20:30:47 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 20:30:47 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 20:30:47 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@5386659f]
+2025-03-19 20:30:54 [INFO] - Creando jugador...
+2025-03-19 20:30:59 [INFO] - Se ha creado un jugador
+2025-03-19 20:30:59 [DEBUG] - Nombre: laura
+2025-03-19 20:31:50 [INFO] - Se ha creado una apuesta aleatoria
+2025-03-19 20:31:50 [DEBUG] - Se le ha realizado la apuesta aleatoria a laura
+2025-03-19 20:31:57 [INFO] - Mostrando personas...
+2025-03-19 20:34:09 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 20:34:09 CET 2025]; root of context hierarchy
+2025-03-19 20:34:09 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 20:34:09 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 20:34:09 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 20:34:09 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 20:34:09 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 20:34:09 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 20:34:09 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 20:34:09 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 20:34:09 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 20:34:09 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 20:34:09 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 20:34:09 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 20:34:09 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 20:34:09 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 20:34:10 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@710c2b53]
+2025-03-19 20:34:35 [INFO] - Creando jugador...
+2025-03-19 20:34:38 [INFO] - Se ha creado un jugador
+2025-03-19 20:34:38 [DEBUG] - Nombre: LAURA
+2025-03-19 20:41:23 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 20:41:23 CET 2025]; root of context hierarchy
+2025-03-19 20:41:23 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 20:41:23 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 20:41:23 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 20:41:23 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 20:41:23 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 20:41:23 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 20:41:23 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 20:41:23 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 20:41:23 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 20:41:23 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 20:41:23 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 20:41:23 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 20:41:23 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 20:41:23 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 20:41:23 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@710c2b53]
+2025-03-19 20:41:26 [INFO] - Creando jugador...
+2025-03-19 20:41:29 [INFO] - Se ha creado un jugador
+2025-03-19 20:41:29 [DEBUG] - Nombre: LAURA
+2025-03-19 20:47:41 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 20:47:41 CET 2025]; root of context hierarchy
+2025-03-19 20:47:41 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 20:47:41 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 20:47:41 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 20:47:41 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 20:47:41 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 20:47:41 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 20:47:41 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 20:47:41 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 20:47:41 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 20:47:41 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 20:47:41 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 20:47:41 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 20:47:41 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 20:47:41 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 20:47:41 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@710c2b53]
+2025-03-19 20:47:47 [INFO] - Creando jugador...
+2025-03-19 20:47:51 [INFO] - Se ha creado un jugador
+2025-03-19 20:47:51 [DEBUG] - Nombre: LAURA
+2025-03-19 20:49:07 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 20:49:07 CET 2025]; root of context hierarchy
+2025-03-19 20:49:07 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 20:49:07 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 20:49:07 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 20:49:07 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 20:49:07 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 20:49:07 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 20:49:08 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 20:49:08 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 20:49:08 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 20:49:08 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 20:49:08 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 20:49:08 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 20:49:08 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 20:49:08 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 20:49:08 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@710c2b53]
+2025-03-19 20:49:12 [INFO] - Creando jugador...
+2025-03-19 20:49:16 [INFO] - Se ha creado un jugador
+2025-03-19 20:49:16 [DEBUG] - Nombre: LAURA
+2025-03-19 20:49:29 [INFO] - Se ha creado una apuesta manual
+2025-03-19 20:49:29 [DEBUG] - La persona LAURA ha realizado las apuesta [1, 2, 3, 4, 5, 49]
+2025-03-19 20:49:33 [INFO] - Mostrando personas...
+2025-03-19 20:50:03 [INFO] - Creando jugador...
+2025-03-19 20:50:05 [ERROR] - Ya existe una persona con ese nombre
+2025-03-19 20:50:52 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@589b3632: startup date [Wed Mar 19 20:50:52 CET 2025]; root of context hierarchy
+2025-03-19 20:50:52 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@589b3632: org.springframework.beans.factory.support.DefaultListableBeanFactory@7d8995e: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 20:50:52 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 20:50:52 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 20:50:52 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 20:50:52 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 20:50:52 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 20:50:52 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 20:50:52 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 20:50:52 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 20:50:52 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 20:50:52 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 20:50:52 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 20:50:52 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 20:50:52 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 20:50:52 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@710c2b53]
+2025-03-19 20:50:55 [INFO] - Creando jugador...
+2025-03-19 20:50:57 [INFO] - Se ha creado un jugador
+2025-03-19 20:50:57 [DEBUG] - Nombre: laura
+2025-03-19 20:51:01 [INFO] - Creando jugador...
+2025-03-19 20:51:03 [ERROR] - Ya existe una persona con ese nombre
+2025-03-19 20:52:09 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 20:52:09 CET 2025]; root of context hierarchy
+2025-03-19 20:52:09 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 20:52:09 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 20:52:09 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 20:52:09 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 20:52:09 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 20:52:09 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 20:52:09 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 20:52:09 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 20:52:09 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 20:52:09 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 20:52:09 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 20:52:09 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 20:52:09 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 20:52:09 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 20:52:09 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@710c2b53]
+2025-03-19 20:52:13 [INFO] - Creando jugador...
+2025-03-19 20:52:14 [INFO] - Se ha creado un jugador
+2025-03-19 20:52:14 [DEBUG] - Nombre: laura
+2025-03-19 20:52:16 [INFO] - Creando jugador...
+2025-03-19 20:52:18 [INFO] - Se ha creado un jugador
+2025-03-19 20:52:18 [DEBUG] - Nombre: isaac
+2025-03-19 20:52:33 [INFO] - Se ha creado una apuesta manual
+2025-03-19 20:52:33 [DEBUG] - La persona laura ha realizado las apuesta [1, 2, 3, 4, 5, 6]
+2025-03-19 20:52:50 [INFO] - Mostrando personas...
+2025-03-19 20:53:04 [INFO] - Se ha creado una apuesta aleatoria
+2025-03-19 20:53:04 [DEBUG] - Se le ha realizado la apuesta aleatoria a isaac
+2025-03-19 20:53:12 [INFO] - Mostrando personas...
+2025-03-19 20:54:12 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 20:54:12 CET 2025]; root of context hierarchy
+2025-03-19 20:54:12 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 20:54:13 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 20:54:13 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 20:54:13 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 20:54:13 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 20:54:13 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 20:54:13 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 20:54:13 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 20:54:13 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 20:54:13 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 20:54:13 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 20:54:13 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 20:54:13 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 20:54:13 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 20:54:13 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@710c2b53]
+2025-03-19 20:54:20 [INFO] - Creando jugador...
+2025-03-19 20:54:22 [INFO] - Se ha creado un jugador
+2025-03-19 20:54:22 [DEBUG] - Nombre: laura
+2025-03-19 20:55:46 [INFO] - Se ha creado una apuesta aleatoria
+2025-03-19 20:55:46 [DEBUG] - Se le ha realizado la apuesta aleatoria a laura
+2025-03-19 20:55:58 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 20:55:58 CET 2025]; root of context hierarchy
+2025-03-19 20:55:58 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 20:55:58 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 20:55:58 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 20:55:59 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 20:55:59 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 20:55:59 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 20:55:59 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 20:55:59 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 20:55:59 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 20:55:59 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 20:55:59 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 20:55:59 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 20:55:59 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 20:55:59 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 20:55:59 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@5386659f]
+2025-03-19 20:56:00 [INFO] - Creando jugador...
+2025-03-19 20:56:03 [INFO] - Se ha creado un jugador
+2025-03-19 20:56:03 [DEBUG] - Nombre: laura
+2025-03-19 20:56:10 [INFO] - Se ha creado una apuesta aleatoria
+2025-03-19 20:56:10 [DEBUG] - Se le ha realizado la apuesta aleatoria a laura
+2025-03-19 20:57:47 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 20:57:47 CET 2025]; root of context hierarchy
+2025-03-19 20:57:47 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 20:57:47 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 20:57:47 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 20:57:47 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 20:57:47 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 20:57:47 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 20:57:47 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 20:57:47 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 20:57:47 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 20:57:47 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 20:57:47 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 20:57:47 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 20:57:47 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 20:57:47 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 20:57:47 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@710c2b53]
+2025-03-19 20:57:55 [INFO] - Creando jugador...
+2025-03-19 20:57:56 [INFO] - Se ha creado un jugador
+2025-03-19 20:57:56 [DEBUG] - Nombre: laura
+2025-03-19 20:58:02 [INFO] - Se ha creado una apuesta aleatoria
+2025-03-19 20:58:02 [DEBUG] - Se le ha realizado la apuesta aleatoria a laura
+2025-03-19 20:58:23 [INFO] - Mostrando personas...
+2025-03-19 21:00:00 [INFO] - Se ha creado una apuesta manual
+2025-03-19 21:00:00 [DEBUG] - La persona laura ha realizado la apuesta [1, 2, 3, 4, 5, 5]
+2025-03-19 21:00:04 [INFO] - Mostrando personas...
+2025-03-19 21:00:41 [INFO] - Creando jugador...
+2025-03-19 21:00:43 [INFO] - Se ha creado un jugador
+2025-03-19 21:00:43 [DEBUG] - Nombre: isaac
+2025-03-19 21:00:47 [INFO] - Se ha creado una apuesta aleatoria
+2025-03-19 21:00:47 [DEBUG] - Se le ha realizado la apuesta aleatoria a isaac
+2025-03-19 21:01:08 [INFO] - Empezando sorteo...
+2025-03-19 21:03:23 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 21:03:23 CET 2025]; root of context hierarchy
+2025-03-19 21:03:23 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 21:03:23 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 21:03:24 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 21:03:24 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 21:03:24 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 21:03:24 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 21:03:24 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 21:03:24 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 21:03:24 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 21:03:24 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 21:03:24 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 21:03:24 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 21:03:24 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 21:03:24 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 21:03:24 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@5386659f]
+2025-03-19 21:03:26 [INFO] - Creando jugador...
+2025-03-19 21:03:28 [INFO] - Se ha creado un jugador
+2025-03-19 21:03:28 [DEBUG] - Nombre: laura
+2025-03-19 21:03:34 [INFO] - Se ha creado una apuesta aleatoria
+2025-03-19 21:03:34 [DEBUG] - Se le ha realizado la apuesta aleatoria a laura
+2025-03-19 21:05:03 [INFO] - Empezando sorteo...
+2025-03-19 21:06:03 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 21:06:03 CET 2025]; root of context hierarchy
+2025-03-19 21:06:03 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 21:06:03 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 21:06:03 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 21:06:03 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 21:06:03 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 21:06:03 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 21:06:03 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 21:06:03 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 21:06:03 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 21:06:03 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 21:06:03 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 21:06:03 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 21:06:03 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 21:06:03 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 21:06:03 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@710c2b53]
+2025-03-19 21:06:07 [INFO] - Empezando sorteo...
+2025-03-19 21:16:23 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@589b3632: startup date [Wed Mar 19 21:16:23 CET 2025]; root of context hierarchy
+2025-03-19 21:16:23 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@589b3632: org.springframework.beans.factory.support.DefaultListableBeanFactory@7d8995e: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 21:16:23 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 21:16:24 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 21:16:24 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 21:16:24 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 21:16:24 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 21:16:24 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 21:16:24 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 21:16:24 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 21:16:24 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 21:16:24 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 21:16:24 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 21:16:24 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 21:16:24 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 21:16:24 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@710c2b53]
+2025-03-19 21:16:28 [INFO] - Creando jugador...
+2025-03-19 21:16:32 [INFO] - Se ha creado un jugador
+2025-03-19 21:16:32 [DEBUG] - Nombre: LAURA
+2025-03-19 21:16:37 [INFO] - Se ha creado una apuesta aleatoria
+2025-03-19 21:16:37 [DEBUG] - Se le ha realizado la apuesta aleatoria a LAURA
+2025-03-19 21:17:04 [INFO] - Empezando sorteo...
+2025-03-19 21:21:30 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 21:21:30 CET 2025]; root of context hierarchy
+2025-03-19 21:21:30 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 21:21:30 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 21:21:30 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 21:21:30 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 21:21:30 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 21:21:30 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 21:21:30 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 21:21:30 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 21:21:30 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 21:21:30 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 21:21:30 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 21:21:30 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 21:21:30 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 21:21:30 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 21:21:30 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@710c2b53]
+2025-03-19 21:21:32 [INFO] - Creando jugador...
+2025-03-19 21:21:34 [INFO] - Se ha creado un jugador
+2025-03-19 21:21:34 [DEBUG] - Nombre: LAURA
+2025-03-19 21:21:39 [INFO] - Se ha creado una apuesta aleatoria
+2025-03-19 21:21:39 [DEBUG] - Se le ha realizado la apuesta aleatoria a LAURA
+2025-03-19 21:21:51 [INFO] - Empezando sorteo...
+2025-03-19 21:23:36 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 21:23:36 CET 2025]; root of context hierarchy
+2025-03-19 21:23:36 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 21:23:36 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 21:23:36 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 21:23:36 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 21:23:36 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 21:23:36 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 21:23:36 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 21:23:36 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 21:23:36 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 21:23:36 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 21:23:36 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 21:23:36 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 21:23:36 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 21:23:36 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 21:23:36 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@5386659f]
+2025-03-19 21:23:41 [INFO] - Creando jugador...
+2025-03-19 21:23:43 [INFO] - Se ha creado un jugador
+2025-03-19 21:23:43 [DEBUG] - Nombre: LAURA
+2025-03-19 21:23:46 [INFO] - Se ha creado una apuesta aleatoria
+2025-03-19 21:23:46 [DEBUG] - Se le ha realizado la apuesta aleatoria a LAURA
+2025-03-19 21:23:49 [INFO] - Se ha creado una apuesta aleatoria
+2025-03-19 21:23:49 [DEBUG] - Se le ha realizado la apuesta aleatoria a LAURA
+2025-03-19 21:23:52 [INFO] - Empezando sorteo...
+2025-03-19 21:24:38 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 21:24:38 CET 2025]; root of context hierarchy
+2025-03-19 21:24:38 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 21:24:38 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 21:24:38 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 21:24:38 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 21:24:38 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 21:24:38 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 21:24:38 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 21:24:38 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 21:24:38 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 21:24:38 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 21:24:38 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 21:24:38 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 21:24:38 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 21:24:38 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 21:24:38 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@5386659f]
+2025-03-19 21:24:40 [INFO] - Creando jugador...
+2025-03-19 21:24:42 [INFO] - Se ha creado un jugador
+2025-03-19 21:24:42 [DEBUG] - Nombre: LAURA
+2025-03-19 21:24:46 [INFO] - Se ha creado una apuesta aleatoria
+2025-03-19 21:24:46 [DEBUG] - Se le ha realizado la apuesta aleatoria a LAURA
+2025-03-19 21:25:08 [INFO] - Empezando sorteo...
+2025-03-19 21:25:08 [INFO] - Empezando sorteo...
+2025-03-19 21:28:17 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 21:28:17 CET 2025]; root of context hierarchy
+2025-03-19 21:28:17 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 21:28:17 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 21:28:17 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 21:28:17 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 21:28:17 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 21:28:17 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 21:28:17 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 21:28:17 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 21:28:17 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 21:28:17 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 21:28:17 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 21:28:17 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 21:28:17 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 21:28:17 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 21:28:17 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@710c2b53]
+2025-03-19 21:28:19 [INFO] - Creando jugador...
+2025-03-19 21:28:21 [INFO] - Se ha creado un jugador
+2025-03-19 21:28:21 [DEBUG] - Nombre: LAURA
+2025-03-19 21:28:24 [INFO] - Se ha creado una apuesta aleatoria
+2025-03-19 21:28:24 [DEBUG] - Se le ha realizado la apuesta aleatoria a LAURA
+2025-03-19 21:28:44 [INFO] - Se ha creado una apuesta manual
+2025-03-19 21:28:44 [DEBUG] - La persona LAURA ha realizado la apuesta [1, 2, 3, 4, 5, 6]
+2025-03-19 21:28:49 [INFO] - Mostrando personas...
+2025-03-19 21:29:22 [INFO] - Empezando sorteo...
+2025-03-19 21:31:31 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 21:31:31 CET 2025]; root of context hierarchy
+2025-03-19 21:31:31 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 21:31:31 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 21:31:31 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 21:31:31 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 21:31:31 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 21:31:31 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 21:31:31 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 21:31:31 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 21:31:31 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 21:31:31 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 21:31:31 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 21:31:31 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 21:31:31 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 21:31:31 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 21:31:31 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@5386659f]
+2025-03-19 21:31:33 [INFO] - Creando jugador...
+2025-03-19 21:31:36 [INFO] - Se ha creado un jugador
+2025-03-19 21:31:36 [DEBUG] - Nombre: LAURA
+2025-03-19 21:31:45 [INFO] - Se ha creado una apuesta aleatoria
+2025-03-19 21:31:45 [DEBUG] - Se le ha realizado la apuesta aleatoria a LAURA
+2025-03-19 21:32:08 [INFO] - Se ha creado una apuesta manual
+2025-03-19 21:32:08 [DEBUG] - La persona LAURA ha realizado la apuesta [1, 2, 3, 4, 5, 6]
+2025-03-19 21:32:24 [INFO] - Empezando sorteo...
+2025-03-19 21:33:52 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 21:33:52 CET 2025]; root of context hierarchy
+2025-03-19 21:33:52 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 21:33:52 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 21:33:52 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LogginBueno\Loggin\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 21:33:52 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 21:33:52 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 21:33:52 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 21:33:52 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 21:33:52 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 21:33:52 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 21:33:52 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 21:33:52 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 21:33:52 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 21:33:52 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 21:33:52 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 21:33:52 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@710c2b53]
+2025-03-19 21:34:16 [INFO] - Creando jugador...
+2025-03-19 21:34:17 [INFO] - Se ha creado un jugador
+2025-03-19 21:34:17 [DEBUG] - Nombre: LAURA
+2025-03-19 21:34:27 [INFO] - Se ha creado una apuesta manual
+2025-03-19 21:34:27 [DEBUG] - La persona LAURA ha realizado la apuesta [1, 2, 3, 4, 5, 6]
+2025-03-19 21:34:28 [INFO] - Creando jugador...
+2025-03-19 21:34:31 [INFO] - Se ha creado un jugador
+2025-03-19 21:34:31 [DEBUG] - Nombre: ISAAC
+2025-03-19 21:34:41 [INFO] - Se ha creado una apuesta manual
+2025-03-19 21:34:41 [DEBUG] - La persona ISAAC ha realizado la apuesta [1, 2, 3, 4, 5, 6]
+2025-03-19 21:34:49 [INFO] - Mostrando personas...
+2025-03-19 21:34:54 [INFO] - Empezando sorteo...
+2025-03-19 22:08:04 [INFO] - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: startup date [Wed Mar 19 22:08:04 CET 2025]; root of context hierarchy
+2025-03-19 22:08:04 [DEBUG] - Bean factory for org.springframework.context.annotation.AnnotationConfigApplicationContext@4c6e276e: org.springframework.beans.factory.support.DefaultListableBeanFactory@42a48628: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.event.internalEventListenerProcessor,org.springframework.context.event.internalEventListenerFactory,appConfig]; root of factory hierarchy
+2025-03-19 22:08:04 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2025-03-19 22:08:04 [DEBUG] - Identified candidate component class: file [C:\Users\laura.huertes\Downloads\LOGGIN\target\classes\com\example\Loggin\LogginImpl.class]
+2025-03-19 22:08:04 [DEBUG] - Successfully enhanced com.example.Loggin.AppConfig; enhanced class name is: com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f
+2025-03-19 22:08:04 [DEBUG] - Replacing bean definition 'appConfig' existing class 'com.example.Loggin.AppConfig' with enhanced class 'com.example.Loggin.AppConfig$$EnhancerBySpringCGLIB$$a68cab5f'
+2025-03-19 22:08:04 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2025-03-19 22:08:05 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2025-03-19 22:08:05 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2025-03-19 22:08:05 [DEBUG] - Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@738dc9b]
+2025-03-19 22:08:05 [DEBUG] - Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@3e27aa33]
+2025-03-19 22:08:05 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerProcessor'
+2025-03-19 22:08:05 [DEBUG] - Creating shared instance of singleton bean 'org.springframework.context.event.internalEventListenerFactory'
+2025-03-19 22:08:05 [DEBUG] - Creating shared instance of singleton bean 'appConfig'
+2025-03-19 22:08:05 [DEBUG] - Creating shared instance of singleton bean 'logginImpl'
+2025-03-19 22:08:05 [DEBUG] - Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@710c2b53]
+2025-03-19 22:08:09 [INFO] - Creando jugador...
+2025-03-19 22:08:11 [INFO] - Se ha creado un jugador
+2025-03-19 22:08:11 [DEBUG] - Nombre: LAURA
+2025-03-19 22:08:17 [INFO] - Se ha creado una apuesta aleatoria
+2025-03-19 22:08:17 [DEBUG] - Se le ha realizado la apuesta aleatoria a LAURA
+2025-03-19 22:08:21 [INFO] - Mostrando personas...
+2025-03-19 22:08:32 [INFO] - Se ha creado una apuesta aleatoria
+2025-03-19 22:08:32 [DEBUG] - Se le ha realizado la apuesta aleatoria a LAURA
+2025-03-19 22:08:34 [INFO] - Mostrando personas...
+2025-03-19 22:08:45 [INFO] - Empezando sorteo...

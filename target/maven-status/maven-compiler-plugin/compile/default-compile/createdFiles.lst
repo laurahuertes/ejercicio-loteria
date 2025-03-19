@@ -1,0 +1,4 @@
+com\example\Loggin\LogginImpl.class
+com\example\Loggin\Persona.class
+com\example\Loggin\AppConfig.class
+com\example\Loggin\ApplicationRunner.class
